@@ -1,5 +1,5 @@
 # Site settings
-baseurl: "/jekyll-openapi" # the subpath of your site, e.g. /blog
+baseurl: "/jekyllopenapi" # the subpath of your site, e.g. /blog
 url: "https://jahnavi24387.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: "#343a40" # The theme color of your site
 
